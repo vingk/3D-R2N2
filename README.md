@@ -1,7 +1,7 @@
 # 3D Reconstruction using Deep learning 
 # CMPUT 608 project 
-# Vinaykumar Kulkarni
-# Rong Feng
+## Vinaykumar Kulkarni, Rong Feng
+
 
 This repository contains the code for the 3D reconstruction project done for the CMPUT 608 course. Given one or multiple views of an object, the network generates voxelized ( a voxel is the 3D equivalent of a pixel) reconstruction of the object in 3D.
 
